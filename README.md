@@ -11,9 +11,9 @@ Procedurally generated mitochondrial network (mammalian:
 
 ![Procedurally generated mammalian mito-network](videos/mammalian_cell_mito_network_v2.gif)
 
-Procedurally generated mitochondrial network restricted by ER contact sites:
+Mitochondria-ER contact sites:
 
-![ER mitochondria interactions](videos/ER_mito_interactions.mp4)
+![ER mitochondria interactions](videos/ER_mito_interactions.gif)
 
 Animated short of mitochondrial dynamics:
 
