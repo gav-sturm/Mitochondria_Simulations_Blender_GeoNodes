@@ -5,10 +5,7 @@ A repository of Blender files containing simulations of organelle dynamics withi
 
 Check out the simulation in action:
 
-[![Watch the video](https://raw.githubusercontent.com/gav-sturm/Mitochondria_Simulations_Blender_GeoNodes/blob/main/thumbnails/er_mito_thumbnail.jpg)](https://raw.githubusercontent.com/gav-sturm/Mitochondria_Simulations_Blender_GeoNodes/blob/main/videos/ER_mito_interactions.mp4)
-
-
-https://github.com/gav-sturm/Mitochondria_Simulations_Blender_GeoNodes/blob/main/videos/ER_mito_interactions.mp4
+[![Watch the video](https://raw.githubusercontent.com/gav-sturm/Mitochondria_Simulations_Blender_GeoNodes/main/thumbnails/er_mito_thumbnail.jpg)](https://raw.githubusercontent.com/gav-sturm/Mitochondria_Simulations_Blender_GeoNodes/main/videos/ER_mito_interactions.mp4)
 
 [MitoMadness](https://youtu.be/Khk7N2SxD_Q)
 
