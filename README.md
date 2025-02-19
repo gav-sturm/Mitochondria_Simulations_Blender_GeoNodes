@@ -5,11 +5,11 @@ A repository of Blender files containing simulations of organelle dynamics withi
 
 Procedurally generated mitochondrial network (yeast):
 
-![Procedurally generated mitochondrial network](videos/yeast_mito_network.gif.gif)
+![Procedurally generated yeast mito-network](videos/yeast_mito_network.gif)
 
 Procedurally generated mitochondrial network (mammalian:
 
-![Procedurally generated mitochondrial network](videos/mammalian_cell_mito_network_v2.gif)
+![Procedurally generated mammalian mito-network](videos/mammalian_cell_mito_network_v2.gif)
 
 Procedurally generated mitochondrial network restricted by ER contact sites:
 
