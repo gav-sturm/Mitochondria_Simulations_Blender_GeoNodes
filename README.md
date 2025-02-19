@@ -3,10 +3,21 @@ A repository of Blender files containing simulations of organelle dynamics withi
 
 ![Blender preview of organelle simulation](images/Blender_screenshot_organelles_v3.jpg)
 
-Procedurally generated mitochondrial network:
+Procedurally generated mitochondrial network (yeast):
 
-![Procedurally generated mitochondrial network](videos/MitoMadness_2025-02-18.mp4)
+![Procedurally generated mitochondrial network](videos/yeast_mito_network.gif.gif)
 
-![MitoMadness!](videos/mamalian_cell_mito_network.gif)
+Procedurally generated mitochondrial network (mammalian:
+
+![Procedurally generated mitochondrial network](videos/mammalian_cell_mito_network_v2.gif)
+
+Procedurally generated mitochondrial network restricted by ER contact sites:
+
+![ER mitochondria interactions](videos/ER_mito_interactions.mp4)
+
+Animated short of mitochondrial dynamics:
+
+![MitoMadness](videos/MitoMadness_2025-02-18.mp4)
+
 
 To access Blender files use ![Blender 3.6.4 LTS](https://www.blender.org/download/lts/3-6/)
