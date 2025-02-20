@@ -16,11 +16,19 @@ https://github.com/user-attachments/assets/121b8365-322e-4c19-9e83-564c85f15801
 
 And even make them crawl along the microtubules...
 
-
 https://github.com/user-attachments/assets/812cf287-5ca5-4d77-9d24-c9f7d86af911
 
+Or.. we could add some more structures like cristae and nucleoids...
 
-And some mitochondrial pearling for good luck...
+
+https://github.com/user-attachments/assets/7c9ed244-746d-47fc-ac11-f5cd1309c6b7
+
+Or... visualize the structures with 'fluorophores'...
+
+
+https://github.com/user-attachments/assets/9439bc9f-53c6-4c96-8383-02da25a039bb
+
+And then we can make the mitochondrial undergo a "pearling" event!...
 
 https://github.com/user-attachments/assets/92314d61-78e8-4447-bde0-7b4d09c8c187
 
