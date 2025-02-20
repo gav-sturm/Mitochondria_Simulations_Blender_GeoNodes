@@ -9,7 +9,7 @@ Simulating a mitochondrial network of a yeasrt cell:
 
 ![yeast_mito_network500p](https://github.com/user-attachments/assets/8e976da1-db95-4dde-bf5c-62c314eedae1)
 
-</p>
+
 
 Scaling this up we get a mitochondrial network of a mammalian cell:
 ![mamalian_cell_mito_network530p](https://github.com/user-attachments/assets/b206e195-d537-4fae-b04b-c62fac836342)
@@ -45,5 +45,7 @@ https://github.com/user-attachments/assets/2e86c379-cc9d-482b-a199-aec578ab9401
 Bringing it all together... **MitoMadness!** a short film made in Blender:
 
 [![MitoMadness : Watch the video](https://raw.githubusercontent.com/gav-sturm/Mitochondria_Simulations_Blender_GeoNodes/main/thumbnails/mito_madness_thumbnail_v2.jpg)](https://youtu.be/QcOTaE_Y0eY)
+
+</p>
 
 To access Blender files use [Blender 3.6.4 LTS](https://www.blender.org/download/lts/3-6/)
