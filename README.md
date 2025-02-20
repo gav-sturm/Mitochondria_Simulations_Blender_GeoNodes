@@ -5,7 +5,11 @@ A repository of Blender files containing simulations of organelle dynamics withi
 
 Simulating a mitochondrial network of a yeasrt cell:
 
+<p align="center">
+
 ![yeast_mito_network500p](https://github.com/user-attachments/assets/8e976da1-db95-4dde-bf5c-62c314eedae1)
+
+</p>
 
 Scaling this up we get a mitochondrial network of a mammalian cell:
 ![mamalian_cell_mito_network530p](https://github.com/user-attachments/assets/b206e195-d537-4fae-b04b-c62fac836342)
