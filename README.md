@@ -10,11 +10,15 @@ Simulating a mitochondrial network of a yeasrt cell:
 Scaling this up we get a mitochondrial network of a mammalian cell:
 ![mamalian_cell_mito_network530p](https://github.com/user-attachments/assets/b206e195-d537-4fae-b04b-c62fac836342)
 
-
-
 Then we make it more complicated with interactions with a simulated ER network:
 
 https://github.com/user-attachments/assets/121b8365-322e-4c19-9e83-564c85f15801
+
+And even make them crawl along the microtubules...
+
+
+https://github.com/user-attachments/assets/812cf287-5ca5-4d77-9d24-c9f7d86af911
+
 
 And some mitochondrial pearling for good luck...
 
