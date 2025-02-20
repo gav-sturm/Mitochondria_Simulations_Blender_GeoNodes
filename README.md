@@ -8,8 +8,9 @@ Simulating a mitochondrial network of a yeasrt cell:
 ![yeast_mito_network500p](https://github.com/user-attachments/assets/8e976da1-db95-4dde-bf5c-62c314eedae1)
 
 Scaling this up we get a mitochondrial network of a mammalian cell:
+![mamalian_cell_mito_network530p](https://github.com/user-attachments/assets/b206e195-d537-4fae-b04b-c62fac836342)
 
-![mammalian_cell_mito_network_420p](https://github.com/user-attachments/assets/2b057250-a367-4c5c-9dd6-3c357ba9c1b8)
+
 
 Then we make it more complicated with interactions with a simulated ER network:
 
