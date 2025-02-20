@@ -3,7 +3,15 @@ A repository of Blender files containing simulations of organelle dynamics withi
 
 ![Blender preview of organelle simulation](images/Blender_screenshot_organelles_v3.jpg)
 
-Check out the simulation in action:
+Simulating a mitochondrial network of a yeasrt cell:
+
+![yeast_mito_network500p](https://github.com/user-attachments/assets/8e976da1-db95-4dde-bf5c-62c314eedae1)
+
+Scaling this up we get a mitochondrial network of a mammalian cell:
+
+![mammalian_cell_mito_network_420p](https://github.com/user-attachments/assets/2b057250-a367-4c5c-9dd6-3c357ba9c1b8)
+
+Then we make it more complicated with interactions with a simulated ER network:
 
 https://github.com/user-attachments/assets/121b8365-322e-4c19-9e83-564c85f15801
 
@@ -11,7 +19,7 @@ And some mitochondrial pearling for good luck...
 
 https://github.com/user-attachments/assets/92314d61-78e8-4447-bde0-7b4d09c8c187
 
-and bringing it all together... MitoMadness! a short film made in Blender:
+Bringing it all together... MitoMadness! a short film made in Blender:
 
 [![MitoMadness : Watch the video](https://raw.githubusercontent.com/gav-sturm/Mitochondria_Simulations_Blender_GeoNodes/main/thumbnails/mito_madness_thumbnail_v2.jpg)](https://youtu.be/QcOTaE_Y0eY)
 
