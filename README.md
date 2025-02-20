@@ -1,5 +1,5 @@
 # Organelle Simulations in Blender Geometry Nodes
-A repository of Blender files containing simulations of organelle dynamics within cells. 
+## A repository of Blender files containing simulations of organelle dynamics within cells. 
 
 ![Blender preview of organelle simulation](images/Blender_screenshot_organelles_v3.jpg)
 
